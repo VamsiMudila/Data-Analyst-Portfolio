@@ -1,2 +1,2 @@
-# My-Portfolio
+# Data-Analyst-Portfolio
 Portfolio of Vamsi Mudila
